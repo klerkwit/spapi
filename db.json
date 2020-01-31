@@ -30,5 +30,36 @@
       "qatime":"16:16:00",
       "ipqc_status":"P"
     }
+   ],
+  "ipqchead": [
+    {"IpqcInSpecRID":"20833",
+	"CoRID":"1",
+	"ipqc_num":"PQA1912-0001",
+	"auto_num":"Y",
+	"ipqc_date":"6/12/19 14:28:00",
+	"ipqc_type":"",
+	"qcdate":"6/12/19",
+	"qctime":"14:28:00",
+	"ipqc_status":"P",
+	"qa_PartMstrRID":"16351",
+	"pt_code":"127900-010-MF-8122431",
+	"jobctrlRID":"66657",
+	"job_num":"LT1910-0039",
+	"ProcessRID":"7",
+	"prc_code":"Stamp",
+	"qaQualGroupHRID":"43",
+	"QualGroup":"CNC",
+	"rcd_status":"A",
+	"WorkStationRID":"",
+	"period":"0",
+	"ShiftRid":"",
+	"txn_code":"PQA",
+	"ppLineRID":"","sample_size":"5","sample_method":"N","qaDefectRID":"","defect":"","defect_qty":"","accept_qty":"","pt_um":"","ipqc_rem":"","aprv_id":"","ncr_num":"","rcd_date":"6/12/19 13:28:55","rcd_id":"syspro","route_num":"","lupd_id":"syspro","lupd_cdate":"22/1/20 11:23:03","cancel_rem":"","prc_desc":"สแตมป์"},
+   {"IpqcInSpecRID":"20837","CoRID":"1","ipqc_num":"PQA1912-0005","auto_num":"Y","ipqc_date":"6/12/19 16:16:00","ipqc_type":"","qcdate":"6/12/19","qctime":"16:16:00","ipqc_status":"P","qa_PartMstrRID":"15222",
+	"pt_code":"137900-010-MF-8042287","jobctrlRID":"66658","job_num":"LT1910-0040","ProcessRID":"5","prc_code":"CaulkPin","qaQualGroupHRID":"47","QualGroup":"Drilling","rcd_status":"A","WorkStationRID":"","period":"0","ShiftRid":"","txn_code":"PQA","ppLineRID":"","sample_size":"5",
+"sample_method":"N","qaDefectRID":"","defect":"","defect_qty":"","accept_qty":"","pt_um":"","ipqc_rem":"","aprv_id":"","ncr_num":"","rcd_date":"25/12/19 16:16:34","rcd_id":"syspro","route_num":"","lupd_id":"syspro","lupd_date":"17/1/20 15:44:20","cancel_rem":"","prc_desc":"ใส่เข็ม"},
+   {"IpqcInSpecRID":"20832","CoRID":"1","ipqc_num":"PQA1911-0003","auto_num":"Y","ipqc_date":"7/11/19 10:24:00","ipqc_type":"","qcdate":"7/11/19","qctime":"10:24:00","ipqc_status":"R","qa_PartMstrRID":"6393","pt_code":"S-900000-010-NA-4010606","jobctrlRID":"66660","job_num":"LT190913","ProcessRID":"1","prc_code":"Cutting","qaQualGroupHRID":"40","QualGroup":"Cutting","rcd_status":"A","WorkStationRID":"","period":"0","ShiftRid":"","txn_code":"PQA","ppLineRID":"","sample_size":"5","sample_method":"N","qaDefectRID":"","defect":"","defect_qty":"","accept_qty":"","pt_um":"","ipqc_rem":"","aprv_id":"","ncr_num":"","rcd_date":"7/11/19 11:52:29","rcd_id":"syspro","route_num":"","lupd_id":"syspro","lupd_date":"7/11/19 15:01:42","cancel_rem":"","prc_desc":"ตัด"}	
+
    ]
+
 }
