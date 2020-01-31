@@ -1,0 +1,34 @@
+{
+  "ipqclist": [
+    {
+      "ipqc_num": "PQA1911-0003",
+      "pt_code": "S-900000-010-NA-4010606",
+      "pt_desc": "10197485_ชั้นคว่ำจานมิเนียม DSS346280S / SAM-DSS346280S_ชั้นวางจานสีเงิน SIZE ''S'' - ( SET )",
+      "job_num":"LT190913",
+      "prc_desc":"ตัด",
+      "ipqc_date":"07/11/2019 10:24:00",
+      "qatime":"10:24:00",
+      "ipqc_status":"R"
+    },
+   {
+      "ipqc_num": "PQA1912-0001",
+      "pt_code": "127900-010-MF-8122431",
+      "pt_desc": "14JR485_IPO HOLDER (PW)PBU2  /  14J3197_PRO HOLDER(PW)PBU2",
+      "job_num":"LT1910-0039",
+      "prc_desc":"สแตมป์",
+      "ipqc_date":"06/12/2019 14:28:00",
+      "qatime":"14:28:00",
+      "ipqc_status":"P"
+    },
+   {
+      "ipqc_num": "PQA1912-0005",
+      "pt_code": "137900-010-MF-8042287",
+      "pt_desc": "1116684002_Heat sink",
+      "job_num":"LT1910-0040",
+      "prc_desc":"ใส่เข็ม",
+      "ipqc_date":"06/12/2019 16:16:00",
+      "qatime":"16:16:00",
+      "ipqc_status":"P"
+    }
+   ]
+}
