@@ -72,6 +72,84 @@
 "sample_method":"N","qaDefectRID":null,"defect":null,"defect_qty":null,"accept_qty":null,"pt_um":null,"ipqc_rem":null,"aprv_id":null,"ncr_num":null,"rcd_date":"25/12/19 16:16:34","rcd_id":"syspro","route_num":null,"lupd_id":"syspro","lupd_date":"17/1/20 15:44:20","cancel_rem":null,"prc_desc":"ใส่เข็ม"},
    {"IpqcInSpecRID":"20832","CoRID":"1","ipqc_num":"PQA1911-0003","auto_num":"Y","ipqc_date":"7/11/19 10:24:00","ipqc_type":null,"qcdate":"7/11/19","qctime":"10:24:00","ipqc_status":"R","qa_PartMstrRID":"6393","pt_code":"S-900000-010-NA-4010606","jobctrlRID":"66660","job_num":"LT190913","ProcessRID":"1","prc_code":"Cutting","qaQualGroupHRID":"40","QualGroup":"Cutting","rcd_status":"A","WorkStationRID":null,"period":"0","ShiftRid":null,"txn_code":"PQA","ppLineRID":null,"sample_size":"5","sample_method":"N","qaDefectRID":null,"defect":null,"defect_qty":null,"accept_qty":null,"pt_um":null,"ipqc_rem":null,"aprv_id":null,"ncr_num":null,"rcd_date":"7/11/19 11:52:29","rcd_id":"syspro","route_num":null,"lupd_id":"syspro","lupd_date":"7/11/19 15:01:42","cancel_rem":null,"prc_desc":"ตัด"}	
 
-   ]
+   ],
+	
+ "qa_ipqcinspec": [
+    {
+	"IpqcInSpecRID":"20833",
+	"CoRID":"1",
+	"ipqc_num":"PQA1912-0001",
+	"auto_num":"Y",
+	"ipqc_date":"6/12/19 14:28:00",
+	"ipqc_type":null,
+	"qcdate":"6/12/19",
+	"qctime":"14:28:00",
+	"ipqc_status":"P",
+	"qa_PartMstrRID":"16351",
+	"pt_code":"127900-010-MF-8122431",
+	"jobctrlRID":"66657",
+	"job_num":"LT1910-0039",
+	"ProcessRID":"7",
+	"prc_code":"Stamp",
+	"qaQualGroupHRID":"43",
+	"QualGroup":"CNC",
+	"rcd_status":"A",
+	"WorkStationRID":null,
+	"period":"0",
+	"ShiftRid":null,
+	"txn_code":"PQA",
+	"ppLineRID":null,
+	"sample_size":"5",
+	"sample_method":"N",
+	"qaDefectRID":null,
+	"defect":null,
+	"defect_qty":null,
+	"accept_qty":null,
+	"pt_um":null,
+	"ipqc_rem":null,
+	"aprv_id":null,
+	"ncr_num":null,
+	"rcd_date":"6/12/19 13:28:55",
+	"rcd_id":"syspro",
+	"route_num":null,
+	"lupd_id":"syspro",
+	"lupd_cdate":"22/1/20 11:23:03",
+	"cancel_rem":null,
+	"prc_desc":"สแตมป์",
+		"items": [
+		{
+			"ipqcinspecRID": "1",
+			"ipqcinspecDRID": "1",
+			"seq": "1",
+			"qaQualCodeRID": "1",
+			"Qual_code": "1",
+			"qual_desc": "1",
+			"std_val": "1",
+			"std_val2": "1",
+			"CompareFlag": "1",
+			"act_val1": "1",
+			"act_val2": "1",
+			"act_val3": "1",
+			"act_val4": "1",
+			"act_val5": "1",
+			"act_val6": "1",
+			"act_val7": "1",
+			"act_val8": "1",
+			"act_val9": "1",
+			"act_val10": "1",
+			"avg_val": "1",
+			"ipqc_status": "1",
+			"rem": "1",
+			"values_type": "1",
+			"aprv_id": "1",
+			"img_file": "1",
+			"CheckDate": "1"
+
+		}
+				]
+
+	}
+]
+	
 
 }
