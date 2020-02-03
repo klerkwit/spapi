@@ -1,4 +1,15 @@
 {
+	"jobs": [
+   {
+    "id": 1,
+    "job_num": "job001",
+    "items": [
+      {
+        "itemid": "1",
+        "itemname": "item 1"
+      }
+    ]
+  },	
   "ipqclist": [
     {
       "ipqc_num": "PQA1911-0003",
