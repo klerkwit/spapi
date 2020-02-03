@@ -76,7 +76,7 @@
 	
  "qa_ipqcinspec": [
     {
-	"IpqcInSpecRID":"20833",
+	"IpqcInSpecRID":"999",
 	"CoRID":"1",
 	"ipqc_num":"PQA1912-0001",
 	"auto_num":"Y",
